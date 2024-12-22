@@ -12,4 +12,4 @@ Objective Of The Project:
 Study trends in literacy rates, enrollment, and education spending globally.				
 
 Tools and Libraries Used:
-panda library , matplotlib library , numpy
+panda library , matplotlib library , numpy library
