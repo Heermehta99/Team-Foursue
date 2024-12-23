@@ -25,4 +25,19 @@ matplotlib library ,
 numpy library 
 
 Data Sources:
-kaggle.com 
+https://www.kaggle.com/
+
+How to Run the project:
+
+
+
+
+
+Summary of Results 
+![Figure_1](https://github.com/user-attachments/assets/6dfc563d-9712-4460-bfa5-e7a9b025fd03)
+![Figure_2](https://github.com/user-attachments/assets/60738fec-405a-4146-9315-84f2fe57b0b0)
+
+
+
+
+Challenges Faced:
