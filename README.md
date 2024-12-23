@@ -41,4 +41,3 @@ Summary of Results
 
 
 
-Challenges Faced:
