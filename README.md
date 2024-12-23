@@ -15,6 +15,7 @@ Rajvee Patel : Data Sets
 Jiya Patel : Research Analysis
 Heer Mehta: Github login , visualisation
 
+
 Objective Of The Project:
 Study trends in literacy rates, enrollment, and education spending globally.				
 
